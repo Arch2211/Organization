@@ -1,0 +1,6 @@
+Emp id
+emp name
+emp phone
+
+
+done
