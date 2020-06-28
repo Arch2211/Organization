@@ -1,8 +1,0 @@
-Emp name
-emp id
-emp phone
-emp address
-emp zip code
-
-
-done
