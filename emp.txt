@@ -1,6 +1,8 @@
 Emp id
 emp name
 emp phone
+emp address
+emp zipcode
 
 
 done
