@@ -1,0 +1,3 @@
+Payment date
+Amount
+Bank details
